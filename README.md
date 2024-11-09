@@ -1,6 +1,4 @@
-Here’s an updated README.md tailored to your repository and npm package naming:
 
----
 
 # React Native Biometrics
 
